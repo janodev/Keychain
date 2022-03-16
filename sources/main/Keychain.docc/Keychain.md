@@ -65,7 +65,8 @@ observation.stopObserving()
 ### Code
 
 - ``Keychain``
-- ``KeychainError``
-- ``ObservedValueStore``
-- ``ValueKeychainStore``
-- ``ValueStore``
+- ``Keychain/KeychainError``
+- ``Keychain/Observation``
+- ``Keychain/ObservedValueStore``
+- ``Keychain/ValueKeychainStore``
+- ``Keychain/ValueStore``
